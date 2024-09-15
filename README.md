@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-<!--
+##Currently a Student and Learning coding to become a WebDeveloper! 
+<!-- 
 **Tjay003/Tjay003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
